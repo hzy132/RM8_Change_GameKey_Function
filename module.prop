@@ -1,0 +1,7 @@
+id=RM8_Change_GameKey_Function
+name=红魔8官方系统修改电竞键功能
+version=1.0
+versionCode=1
+author=hzy132
+description=作者酷安及Github：hzy132，按键功能配置文件：/data/adb/modules/RM8_Change_GameKey_Function/CGF_config，具体说明请看酷安动态和Github，https://github.com/hzy132/RM8_Change_GameKey_Function 。
+updateJson=https://raw.githubusercontent.com/hzy132/RM8_Change_GameKey_Function/main/updateJson
